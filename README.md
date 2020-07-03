@@ -4,7 +4,8 @@ Media Query
 
 Description: create a basic example of a media query based on the specs below.
 
-Course: 1. create 4 Coumns(flexbox) first at mobile size<br>
+Course: 
+        1. create 4 Coumns(flexbox) first at mobile size<br>
         2. make CSS stuff for required options<br>
         3. create different colour columns as a Desktop size with Media Query<br>
         4. complete CSS file with proper information
