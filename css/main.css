@@ -28,17 +28,16 @@ body {
 }
 
 @media screen and (min-width: 480px) {
-
 	.box1 {
 		background-color: pink;
 		color: #fefefe;
-		width: 480px;
+		width: 500px;
 	}
 
 	.box2 {
 		background-color: red;
 		color: #fefefe;
-		width: 480px;
+		width: 500px;
 	}
 }
 
